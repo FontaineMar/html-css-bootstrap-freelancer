@@ -12,8 +12,7 @@
   color:#fff;
   font-size:2rem
 }
-.ve-line > h3 {
-  color:#fff;
+.ve-line > h2 {
   font-size:4rem
 }
 .sidebar > ul > li{
@@ -32,7 +31,7 @@
 
 .bg-hero{
   height: 80vh;
-  background-color: #1abc9c;
+
 }
 
 .avatar > img {
@@ -41,50 +40,84 @@
 }
 
 .text-hero > h1{
-  color: #fff;
   font-size:8rem;
 }
 
 .text-hero > p{
-  color: #fff;
   font-size:3rem;
 }
 
 .linea{
   font-weight: 1px bolder;
   width:300px;
-  background-color: #fff;;
   height: 3px;
   display: inline-block;
 }
 
-.stella{
-  font-size:3rem;
-  color:white;
+.square > img{
+  height:250px;
+  width:350px;
+  border-radius:20px;
 }
 
+.brick{
+  font-size:2rem;
+  padding:50px;
+}
 
+.bott-down{
+  width: 200px;
+  padding:20px;
+  font-weight: bold;
+  font-size: 2rem;
+  border-radius:10px;
+  border:2px solid #fff;
+}
 
+.input-boot{
+  font-size:2.5rem;
+
+}
+
+.pad{
+  padding:40px;
+}
 /* ALTEZZE */
 
 .h-80{
   height:80px;
 }
-.square{
-  margin-top:40px
-}
-.square > img{
-  height:250px;
-  width:350px;
-  border-radius:20px
 
+.sta-size{
+  font-size:3rem;
 }
+
+h3{
+  font-size:4rem;
+}
+
+.bg-green{
+  background-color:#1abc9c;
+}
+
+.color-w{
+  color:#fff;
+}
+
+.line-white{
+  background-color:#fff;
+}
+.line-black{
+  background-color:#000;
+}
+
 .ve-line{
   line-height:80px;
   vertical-align: middle;
 }
-.marg{
 
+.mar-top{
+  margin-top:40px;
 }
 
 .foot-h{
