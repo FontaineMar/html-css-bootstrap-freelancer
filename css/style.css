@@ -1,0 +1,125 @@
+
+
+[class*="col-"]{
+  border:1px solid blue
+}
+
+
+.sidebar  a{
+  text-decoration: none;
+  color: black;
+  padding-right:20px;
+  color:#fff;
+  font-size:2rem
+}
+.ve-line > h3 {
+  color:#fff;
+  font-size:4rem
+}
+.sidebar > ul > li{
+  list-style: none;
+  display: inline;
+}
+
+.bg-nav{
+  background-color: #2c3e50;
+}
+
+.ve-line{
+  line-height:80px;
+  vertical-align: middle;
+}
+
+.bg-hero{
+  height: 80vh;
+  background-color: #1abc9c;
+}
+
+.avatar > img {
+  width:300px;
+  height:300px;
+}
+
+.text-hero > h1{
+  color: #fff;
+  font-size:8rem;
+}
+
+.text-hero > p{
+  color: #fff;
+  font-size:3rem;
+}
+
+.linea{
+  font-weight: 1px bolder;
+  width:300px;
+  background-color: #fff;;
+  height: 3px;
+  display: inline-block;
+}
+
+.stella{
+  font-size:3rem;
+  color:white;
+}
+
+
+
+/* ALTEZZE */
+
+.h-80{
+  height:80px;
+}
+.square{
+  margin-top:40px
+}
+.square > img{
+  height:250px;
+  width:350px;
+  border-radius:20px
+
+}
+.ve-line{
+  line-height:80px;
+  vertical-align: middle;
+}
+.marg{
+
+}
+
+.foot-h{
+  height:300px;
+  width:33,5%;
+}
+
+.foot-b{
+  height:100px;
+  width:100%;
+
+}
+
+/* MEDIA QUERY */
+
+
+@media screen and (min-width:1200px){
+
+}
+
+@media screen and (min-width:992px) and (max-width:1199px) {
+
+}
+
+
+
+
+
+@media screen and (min-width:768px) and (max-width:991px) {
+
+}
+
+
+
+
+@media screen and (max-width:767px){
+
+}
